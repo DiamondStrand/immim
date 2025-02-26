@@ -7,7 +7,7 @@
 A beautiful, modern web application featuring secure authentication, elegant animations, and responsive design.
 
 <div align="center">
-  <img src="screenshot.webp" alt="Immim Screenshot" width="600px"/>
+  <img src="static/screenshot.webp" alt="Immim Screenshot" width="600px"/>
 </div>
 
 ## ✨ Features
